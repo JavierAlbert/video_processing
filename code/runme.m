@@ -1,0 +1,2 @@
+% Just call main :)
+main
